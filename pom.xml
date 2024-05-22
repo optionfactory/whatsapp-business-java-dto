@@ -4,7 +4,7 @@
 
     <groupId>net.optionfactory</groupId>
     <artifactId>whatsapp-business-java-dto</artifactId>
-    <version>v1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <licenses>
         <license>
             <name>The MIT License</name>
