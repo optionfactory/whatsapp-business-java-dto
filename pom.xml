@@ -5,6 +5,16 @@
     <groupId>net.optionfactory</groupId>
     <artifactId>whatsapp-business-java-dto</artifactId>
     <version>1.0.0</version>
+    <description>DTOs for WA API</description>
+    <url>https://github.com/optionfactory/whatsapp-business-java-dto</url>
+    <developers>
+        <developer>
+            <name>Simone Baruzza</name>
+            <email>simone.baruzza@optionfactory.net</email>
+            <organization>OptionFactory</organization>
+            <organizationUrl>http://optionfactory.net</organizationUrl>
+        </developer>
+    </developers>
     <licenses>
         <license>
             <name>The MIT License</name>
